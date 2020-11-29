@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 :root{
-    --primery-color:#7C3AED;
+    --primery-color:#D97706;
     --dark-gray:#6B7280;
     --off-white:#F3F4F6;
 }
@@ -140,3 +140,9 @@ hr{
 .container .bottomspace{
     margin-bottom: 30px;
 }
+
+.center {
+    text-align: justify;
+    -moz-text-align-last: center; 
+    text-align-last: center;
+  }
