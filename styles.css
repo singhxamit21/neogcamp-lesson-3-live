@@ -133,6 +133,10 @@ hr{
     font-size: large;
 }
 
-.margin_md{
-    margin: 2rem;
+.container .margin_md{
+    margin-right: 10px;
+}
+
+.container .bottomspace{
+    margin-bottom: 30px;
 }
